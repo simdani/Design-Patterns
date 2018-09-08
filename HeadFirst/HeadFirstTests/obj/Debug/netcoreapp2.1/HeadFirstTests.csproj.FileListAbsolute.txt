@@ -1,0 +1,17 @@
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\HeadFirstTests.deps.json
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\HeadFirstTests.runtimeconfig.json
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\HeadFirstTests.runtimeconfig.dev.json
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\HeadFirstTests.dll
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\HeadFirstTests.pdb
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\HeadFirst.dll
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\bin\Debug\netcoreapp2.1\HeadFirst.pdb
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\obj\Debug\netcoreapp2.1\HeadFirstTests.csprojAssemblyReference.cache
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\obj\Debug\netcoreapp2.1\HeadFirstTests.csproj.CoreCompileInputs.cache
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\obj\Debug\netcoreapp2.1\HeadFirstTests.AssemblyInfoInputs.cache
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\obj\Debug\netcoreapp2.1\HeadFirstTests.AssemblyInfo.cs
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\obj\Debug\netcoreapp2.1\HeadFirstTests.csproj.CopyComplete
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\obj\Debug\netcoreapp2.1\HeadFirstTests.dll
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirstTests\obj\Debug\netcoreapp2.1\HeadFirstTests.pdb

@@ -1,0 +1,11 @@
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\bin\Debug\netcoreapp2.1\HeadFirst.deps.json
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\bin\Debug\netcoreapp2.1\HeadFirst.runtimeconfig.json
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\bin\Debug\netcoreapp2.1\HeadFirst.runtimeconfig.dev.json
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\bin\Debug\netcoreapp2.1\HeadFirst.dll
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\bin\Debug\netcoreapp2.1\HeadFirst.pdb
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\obj\Debug\netcoreapp2.1\HeadFirst.csprojAssemblyReference.cache
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\obj\Debug\netcoreapp2.1\HeadFirst.csproj.CoreCompileInputs.cache
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\obj\Debug\netcoreapp2.1\HeadFirst.AssemblyInfoInputs.cache
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\obj\Debug\netcoreapp2.1\HeadFirst.AssemblyInfo.cs
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\obj\Debug\netcoreapp2.1\HeadFirst.dll
+C:\Users\SUPER\source\repos\HeadFirst\HeadFirst\obj\Debug\netcoreapp2.1\HeadFirst.pdb
