@@ -9,7 +9,7 @@ namespace HeadFirst.ObserverPattern
     {
         private float _temperature;
         private float _humidity;
-        private ISubject _weatherData;
+        private readonly ISubject _weatherData;
 
         public HeatIndexDisplay(ISubject weatherData)
         {
