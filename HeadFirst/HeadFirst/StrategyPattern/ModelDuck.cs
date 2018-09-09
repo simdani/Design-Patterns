@@ -7,8 +7,8 @@ namespace HeadFirst.StrategyPattern
     {
         public ModelDuck()
         {
-            flyBehavior = new FlyNoWay();
-            quackBehavior = new Squeak();
+            FlyBehavior = new FlyNoWay();
+            QuackBehavior = new Squeak();
         }
 
         public override string Display()

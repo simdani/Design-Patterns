@@ -5765,11 +5765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SUPER\\source\\repos\\HeadFirst\\HeadFirstTests\\HeadFirstTests.csproj",
+      "projectUniqueName": "C:\\Users\\SUPER\\Desktop\\Learning\\Design patterns\\HeadFirst\\HeadFirstTests\\HeadFirstTests.csproj",
       "projectName": "HeadFirstTests",
-      "projectPath": "C:\\Users\\SUPER\\source\\repos\\HeadFirst\\HeadFirstTests\\HeadFirstTests.csproj",
+      "projectPath": "C:\\Users\\SUPER\\Desktop\\Learning\\Design patterns\\HeadFirst\\HeadFirstTests\\HeadFirstTests.csproj",
       "packagesPath": "C:\\Users\\SUPER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SUPER\\source\\repos\\HeadFirst\\HeadFirstTests\\obj\\",
+      "outputPath": "C:\\Users\\SUPER\\Desktop\\Learning\\Design patterns\\HeadFirst\\HeadFirstTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5788,8 +5788,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\SUPER\\source\\repos\\HeadFirst\\HeadFirst\\HeadFirst.csproj": {
-              "projectPath": "C:\\Users\\SUPER\\source\\repos\\HeadFirst\\HeadFirst\\HeadFirst.csproj"
+            "C:\\Users\\SUPER\\Desktop\\Learning\\Design patterns\\HeadFirst\\HeadFirst\\HeadFirst.csproj": {
+              "projectPath": "C:\\Users\\SUPER\\Desktop\\Learning\\Design patterns\\HeadFirst\\HeadFirst\\HeadFirst.csproj"
             }
           }
         }

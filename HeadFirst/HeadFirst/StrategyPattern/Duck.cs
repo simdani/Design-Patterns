@@ -5,24 +5,24 @@ namespace HeadFirst.StrategyPattern
 {
     public abstract class Duck
     {
-        public IFlyBehavior flyBehavior;
-        public IQuackBehavior quackBehavior;
+        public IFlyBehavior FlyBehavior;
+        public IQuackBehavior QuackBehavior;
 
         public abstract string Display();
 
         public string PerformFly()
         {
-            return flyBehavior.Fly();
+            return FlyBehavior.Fly();
         }
 
         public string PerformQuack()
         {
-            return quackBehavior.Quack();
+            return QuackBehavior.Quack();
         }
 
         public void SetFlyBehavior(IFlyBehavior flyBehavior)
         {
-            this.flyBehavior = flyBehavior;
+            this.FlyBehavior = flyBehavior;
         }
 
         public string Swim()
