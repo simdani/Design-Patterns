@@ -6,6 +6,10 @@ namespace HeadFirst.FactoryPattern.ChicagoPizzas
 {
     public class ChicagoStylePizzaStore : PizzaStore
     {
+        public ChicagoStylePizzaStore() : base()
+        {
+        }
+
         public ChicagoStylePizzaStore(SimplePizzaFactory factory) : base(factory)
         {
         }

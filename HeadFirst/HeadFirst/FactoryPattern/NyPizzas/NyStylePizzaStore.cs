@@ -2,6 +2,10 @@
 {
     public class NyStylePizzaStore : PizzaStore
     {
+        public NyStylePizzaStore()
+        {
+        }
+
         public NyStylePizzaStore(SimplePizzaFactory factory) : base(factory)
         {
         }
