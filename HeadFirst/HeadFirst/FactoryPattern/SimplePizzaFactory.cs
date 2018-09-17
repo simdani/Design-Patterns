@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using HeadFirst.FactoryPattern.Pizzas;
 
 namespace HeadFirst.FactoryPattern
 {
@@ -10,11 +11,11 @@ namespace HeadFirst.FactoryPattern
         {
             Pizza pizza = null;
 
-            if (type.Equals("cheese"))
-            {
-                pizza = new CheesePizza();
-            }
-            else if (type.Equals("pepperoni"))
+            //if (type.Equals("cheese"))
+            //{
+            //    pizza = new CheesePizza();
+            //}
+            if (type.Equals("pepperoni"))
             {
                 pizza = new PepperoniPizza();
             }

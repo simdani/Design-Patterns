@@ -4,9 +4,9 @@ using System.Text;
 
 namespace HeadFirst.FactoryPattern.PizzaIngredients
 {
-    public interface PizzaIngredientFactory
+    public interface IPizzaIngredientFactory
     {
-        Dough CreateDough();
+        IDough CreateDough();
         Clams CreateClam();
         Cheese CreateCheese();
         Pepperoni CreatePepperoni();

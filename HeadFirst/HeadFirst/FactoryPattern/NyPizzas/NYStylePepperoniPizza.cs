@@ -6,5 +6,9 @@ namespace HeadFirst.FactoryPattern.NyPizzas
 {
     public class NYStylePepperoniPizza : Pizza
     {
+        public override void Prepare()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

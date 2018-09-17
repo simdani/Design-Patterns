@@ -8,11 +8,11 @@ namespace HeadFirst.FactoryPattern.NyPizzas
     {
         public NYStyleCheesePizza()
         {
-            name = "NY Style Sauce and Cheese Pizza";
-            dough = "Thin Curst Dough";
-            sauce = "Marinate Sauce";
+        }
 
-            toppings.Add("Grate Reggiano Cheese");
+        public override void Prepare()
+        {
+            throw new NotImplementedException();
         }
     }
 }

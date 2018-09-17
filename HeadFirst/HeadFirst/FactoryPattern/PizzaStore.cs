@@ -6,11 +6,11 @@ namespace HeadFirst.FactoryPattern
 {
     public abstract class PizzaStore
     {
-        private SimplePizzaFactory factory;
+        private readonly SimplePizzaFactory _factory;
 
         public PizzaStore(SimplePizzaFactory factory)
         {
-            this.factory = factory;
+            this._factory = factory;
         }
 
         protected PizzaStore()

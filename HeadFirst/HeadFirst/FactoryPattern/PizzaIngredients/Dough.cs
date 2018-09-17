@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HeadFirst.FactoryPattern.PizzaIngredients
 {
-    public interface Dough
+    public interface IDough
     {
     }
 }

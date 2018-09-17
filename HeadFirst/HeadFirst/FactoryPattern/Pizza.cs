@@ -2,25 +2,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
+using HeadFirst.FactoryPattern.PizzaIngredients;
 
 namespace HeadFirst.FactoryPattern
 {
     public abstract class Pizza
     {
-        protected string name { get; set; }
-        protected string dough { get; set; }
-        protected string sauce { get; set; }
-        protected ArrayList toppings = new ArrayList();
+        protected string Name { get; set; }
+        protected IDough Dough { get; set; }
+        protected Sauce Sauce { get; set; }
+        protected Veggies[] Veggies { get; set; }
+        protected Cheese Cheese { get; set; }
+        protected Clams Clam { get; set; }
+        protected ArrayList Toppings = new ArrayList();
 
-        public void Prepare()
-        {
-            Console.WriteLine("Preparing" + name);
-            Console.WriteLine("Adding toppings");
-            for (int i = 0; i < toppings.Count; i++)
-            {
-                Console.WriteLine(toppings[i]);
-            }
-        }
+        public abstract void Prepare();
 
         public void Bake()
         {

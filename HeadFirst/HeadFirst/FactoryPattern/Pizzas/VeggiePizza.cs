@@ -1,11 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace HeadFirst.FactoryPattern.NyPizzas
+namespace HeadFirst.FactoryPattern.Pizzas
 {
-    public class NYStyleVeggiePizza : Pizza
+    public class VeggiePizza : Pizza
     {
+        public VeggiePizza()
+        {
+
+        }
+
         public override void Prepare()
         {
             throw new NotImplementedException();
