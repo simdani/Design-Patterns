@@ -4,23 +4,23 @@ using System.Text;
 
 namespace HeadFirst.CommandPattern
 {
-    public class LightOnCommand : ICommand
+    public class LightsOffCommand : ICommand
     {
         private Light light;
 
-        public LightOnCommand(Light light)
+        public LightsOffCommand(Light light)
         {
             this.light = light;
         }
 
         public void Execute()
         {
-            light.On();
+            light.Off();
         }
 
         public void Undo()
         {
-            light.Off();
+            light.On();
         }
     }
 }
