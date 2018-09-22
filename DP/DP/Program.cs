@@ -1,4 +1,5 @@
 ﻿using System;
+using DP.Factory;
 
 namespace DP
 {
@@ -6,7 +7,6 @@ namespace DP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }

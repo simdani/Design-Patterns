@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace DP
+namespace DP.Singleton
 {
     // thread safe Singleton with lazy loading
     public sealed class SingletonLazy
