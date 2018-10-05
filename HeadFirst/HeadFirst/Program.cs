@@ -8,6 +8,7 @@ using HeadFirst.FactoryPattern.NyPizzas;
 using HeadFirst.ObserverPattern;
 using HeadFirst.StrategyPattern;
 using HeadFirst.StrategyPattern.FlyBehaviors;
+using HeadFirst.TemplateMethodPattern;
 
 namespace HeadFirst
 {
@@ -15,6 +16,14 @@ namespace HeadFirst
     {
         static void Main(string[] args)
         {
+            Tea tea = new Tea();
+            Coffee coffee = new Coffee();
+
+            tea.PrepareRecipe();
+
+            // coffee
+            coffee.PrepareRecipe();
+            Console.ReadKey();
         }
     }
 }
