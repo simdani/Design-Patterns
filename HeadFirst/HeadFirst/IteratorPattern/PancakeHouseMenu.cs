@@ -5,7 +5,7 @@ using System.Text;
 
 namespace HeadFirst.IteratorPattern
 {
-    public class PancakeHouseMenu
+    public class PancakeHouseMenu : Menu
     {
         private ArrayList menuItems { get; }
 
@@ -32,6 +32,11 @@ namespace HeadFirst.IteratorPattern
                 "Waffles, with your choice of blueberries",
                 true,
                 3.59);
+        }
+
+        public Iterator CreateIterator()
+        {
+            return new PancakeHouseMenuIterator(menuItems);
         }
 
         public void AddItem(string Name, string Description,
