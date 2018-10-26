@@ -21,7 +21,7 @@ public class BeatModel implements BeatModelnterface, MetaEventListener {
     }
 
     private void buildTrackAndStart(){
-        
+
     }
 
     @Override
