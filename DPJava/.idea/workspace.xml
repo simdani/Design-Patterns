@@ -2,14 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb9d19a-cf2b-4042-bf21-8da741f38223" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Strategy/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Strategy/OperationA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Strategy/OperationB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Strategy/OperationC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Strategy/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Strategy/StrategyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Adapter/AdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Adapter/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Adapter/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Adapter/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Adapter/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Adapter/VlcPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Bridge/BridgeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Bridge/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Bridge/DrawApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Bridge/GreenCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Bridge/RedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Bridge/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/BuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/ChickenBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/ColdDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/MealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/Pepsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/VegBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Builder/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Command/Broker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Command/BuyStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Command/CommandDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Command/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Command/SellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Command/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Decorator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Decorator/DecoratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Decorator/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Decorator/RedShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Decorator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Decorator/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Facade/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Facade/FacadeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Facade/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Facade/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Facade/ShapeMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Facade/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Observer/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Observer/ConcreteSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Observer/HexaObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Observer/ObsrverDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Observer/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Prototype/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Prototype/PrototypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Prototype/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Prototype/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Prototype/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/BeatModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BeatMVC/BeatModel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,33 +73,36 @@
     <session id="-2011978490">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="56" />
+          <entry key="java" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="56" />
+          <entry key="JAVA" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5897" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="12304" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5897" />
+          <entry key="JAVA" value="12304" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -56,115 +110,115 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/BeatModel.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Facade/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/Strategy.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Facade/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Facade/ShapeMaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Facade/FacadeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/DrawApi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+              <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/OperationA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/OperationB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/OperationC.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/RedCircle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/GreenCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/Context.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="168">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/StrategyDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/BridgeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="73" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/DJView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/BeatBar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/Quackable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="192">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -185,45 +239,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemote.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ProxyPattern/GumballTest.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemoteImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemoteClient.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMachineRemote.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ProxyPattern/State.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMachine.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMonitor.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/Goose.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/AbstractDuckFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/CountingDuckFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/QuackObservable.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/Quackable.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/Observable.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/Observer.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckCall.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/Flock.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/GooseAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/QuackCounter.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/RedheadDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/RubberDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/Quackologist.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckSimulator.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BeatMVC/BeatModelnterface.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BeatMVC/ControllerInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BeatMVC/BeatController.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BeatMVC/BeatObserver.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BeatMVC/DJView.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BeatMVC/BeatBar.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BeatMVC/BPMObserver.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BeatMVC/BeatModel.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Strategy/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Strategy/OperationA.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Strategy/OperationB.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Strategy/OperationC.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Strategy/Context.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Strategy/StrategyDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Observer/ObsrverDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/Pack.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/Item.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/Wrapper.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/Bottle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/Burger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/ColdDrink.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/VegBurger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/ChickenBurger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/Coke.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/Pepsi.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/Meal.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/MealBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Builder/BuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Prototype/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Prototype/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Prototype/Square.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Prototype/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Prototype/ShapeCache.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Prototype/PrototypeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Decorator/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Decorator/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Decorator/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Decorator/ShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Decorator/RedShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Decorator/DecoratorDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Command/Order.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Command/Stock.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Command/BuyStock.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Command/SellStock.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Command/Broker.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Command/CommandDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Adapter/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Adapter/AdvancedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Adapter/VlcPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Adapter/Mp4Player.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Adapter/MediaAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Adapter/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Adapter/AdapterDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Facade/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Facade/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Facade/Square.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Facade/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Facade/ShapeMaker.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Facade/FacadeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Bridge/DrawApi.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Bridge/RedCircle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Bridge/GreenCircle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Bridge/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Bridge/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Bridge/BridgeDemo.java" />
       </list>
     </option>
   </component>
@@ -246,8 +312,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,18 +335,20 @@
               <item name="DPJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="Bridge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540574797637" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540643000225" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -302,13 +368,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StrategyDemo">
-    <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CombinedPatterns.DuckSimulator" />
+  <component name="RunManager" selected="Application.BridgeDemo">
+    <configuration name="AdapterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Adapter.AdapterDemo" />
       <module name="DPJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.CombinedPatterns.*" />
+          <option name="PATTERN" value="com.company.Adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,22 +382,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="BridgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Bridge.BridgeDemo" />
       <module name="DPJava" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrategyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Strategy.StrategyDemo" />
+    <configuration name="CommandDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Command.CommandDemo" />
       <module name="DPJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Strategy.*" />
+          <option name="PATTERN" value="com.company.Command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Decorator.DecoratorDemo" />
+      <module name="DPJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacadeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Facade.FacadeDemo" />
+      <module name="DPJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Facade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,15 +435,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DuckSimulator" />
-      <item itemvalue="Application.StrategyDemo" />
+      <item itemvalue="Application.DecoratorDemo" />
+      <item itemvalue="Application.CommandDemo" />
+      <item itemvalue="Application.AdapterDemo" />
+      <item itemvalue="Application.FacadeDemo" />
+      <item itemvalue="Application.BridgeDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StrategyDemo" />
-        <item itemvalue="Application.DuckSimulator" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BridgeDemo" />
+        <item itemvalue="Application.FacadeDemo" />
+        <item itemvalue="Application.AdapterDemo" />
+        <item itemvalue="Application.CommandDemo" />
+        <item itemvalue="Application.DecoratorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -368,18 +467,19 @@
       <workItem from="1540449016047" duration="15000" />
       <workItem from="1540459425973" duration="2727000" />
       <workItem from="1540574156998" duration="35000" />
-      <workItem from="1540574199216" duration="576000" />
+      <workItem from="1540574199216" duration="4256000" />
+      <workItem from="1540639905994" duration="3078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6679000" />
+    <option name="totallyTimeSpent" value="13437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="977" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32824427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33587787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -388,7 +488,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5649635" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,337 +516,486 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/ProxyPattern/GumballTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Observer/ObsrverDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="408">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemoteImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemoteClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMachineRemote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ProxyPattern/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMonitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/AbstractDuckFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/CountingDuckFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/Flock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/Goose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/GooseAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/RubberDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/Quackologist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/QuackCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/QuackObservable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/RedheadDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1081">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/BeatModelnterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/BeatObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/BPMObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/ControllerInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/BeatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/DJView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/BeatBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CombinedPatterns/Quackable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BeatMVC/BeatModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/Strategy.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/Packing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/OperationA.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/Wrapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="144">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/OperationB.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/Bottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/Burger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/ColdDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/VegBurger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/OperationC.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/ChickenBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/Coke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/Pepsi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/MealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Builder/BuilderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Prototype/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Prototype/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Prototype/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Prototype/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Prototype/ShapeCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Prototype/PrototypeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Decorator/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Decorator/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Decorator/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/Context.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Decorator/ShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Decorator/RedShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Decorator/DecoratorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Command/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Command/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Command/BuyStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Command/SellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
             <element signature="e#256#257#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/StrategyDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Command/Broker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="73" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
+        <state relative-caret-position="384">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Command/CommandDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Adapter/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Adapter/AdvancedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Adapter/VlcPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Adapter/Mp4Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Adapter/MediaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Adapter/AudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Adapter/AdapterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Facade/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Facade/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Facade/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Facade/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Facade/ShapeMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Facade/FacadeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/GreenCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/RedCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/DrawApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Bridge/BridgeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
