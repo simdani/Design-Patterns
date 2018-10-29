@@ -1,0 +1,10 @@
+/**
+ * @(#) DrivingBuilder.java
+ */
+
+package edu.ktu.t120b516.Builder;
+
+public class DrivingBuilder implements IBuilder
+{
+	
+}

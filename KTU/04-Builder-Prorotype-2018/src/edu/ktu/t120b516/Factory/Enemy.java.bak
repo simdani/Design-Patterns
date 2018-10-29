@@ -1,0 +1,74 @@
+/**
+ * @(#) Enemy.java
+ */
+
+package edu.ktu.t120b516.Factory;
+
+import java.util.ArrayList;
+
+import edu.ktu.t120b516.StrategyObserver.*;
+
+public abstract class Enemy
+{
+	private String name = "";
+	
+	private long posX;
+	
+	private long posY;
+	
+	private long damage = 10;
+	
+	private long distance = 5;
+	
+	ArrayList<IMoveAlgorithm> moveList = new ArrayList<IMoveAlgorithm>();
+	
+	public void sayHello() {
+		System.out.println("Hello, I am " + name);
+	}
+	
+	public Enemy(String name, long posX, long posY) {
+		this.name = name;
+		this.posX = posX;
+		this.posY = posY;
+	}
+	
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public long getPosX() {
+		return posX;
+	}
+
+	public void setPosX(long posX) {
+		this.posX = posX;
+	}
+
+	public long getPosY() {
+		return posY;
+	}
+
+	public void setPosY(long posY) {
+		this.posY = posY;
+	}
+
+
+	
+	public void move( )
+	{
+		for(IMoveAlgorithm a : moveList) {
+			a.move();
+		}
+	}
+	
+	public void shoot( )
+	{
+		
+	}
+	
+	
+}

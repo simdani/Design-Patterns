@@ -1,0 +1,24 @@
+/**
+ * @(#) Director.java
+ */
+
+package edu.ktu.t120b516.Builder;
+
+import edu.ktu.t120b516.Factory.Enemy;
+
+public class Director
+{
+	private IBuilder builder;
+	
+	public Enemy getFlying( )
+	{
+		return null;
+	}
+	
+	public Enemy getDriving( )
+	{
+		return null;
+	}
+	
+	
+}
