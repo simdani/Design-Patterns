@@ -2,139 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb9d19a-cf2b-4042-bf21-8da741f38223" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/AircraftCarrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/AnyLevelFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Bomber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/EnemyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/IFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Jet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Submarine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/IObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/ViewPortController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Strategy/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Strategy/IMoveAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Strategy/Swim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/AbstractFactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/FactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Socket110V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Socket220V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/EnemyUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/UIDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/DrivingBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/FlyingBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/IBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/SwimmingBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/MoveDownCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/MoveUpCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ShootCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/BlueEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Ezon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/ISkin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/RedEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Shields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Prototype/Wings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Adapter/AdapterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Adapter/AdapterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Adapter/AdvancedMediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Adapter/AdvancedMediaPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Adapter/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Adapter/AudioPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Adapter/MediaAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Adapter/MediaAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Adapter/MediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Adapter/MediaPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Adapter/Mp4Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Adapter/Mp4Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Adapter/VlcPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Adapter/VlcPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/BPMObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BPMObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/BeatBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/BeatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/BeatModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/BeatModelnterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatModelnterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/BeatObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/ControllerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/ControllerInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BeatMVC/DJView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/DJView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bridge/BridgeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Bridge/BridgeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bridge/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Bridge/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bridge/DrawApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Bridge/DrawApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bridge/GreenCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Bridge/GreenCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bridge/RedCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Bridge/RedCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bridge/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Bridge/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/Bottle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/BuilderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/BuilderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/Burger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/ChickenBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/ChickenBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/Coke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/Coke.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/ColdDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/ColdDrink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/Meal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/MealBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/MealBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/Packing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/Packing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/Pepsi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/Pepsi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/VegBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/VegBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Builder/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Builder/Wrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/AbstractDuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/AbstractDuckFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/CountingDuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/CountingDuckFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/DuckCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/DuckFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/DuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/DuckSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/Flock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/Flock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/Goose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/Goose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/GooseAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/GooseAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/Observable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/QuackCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/QuackCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/QuackObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/QuackObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/Quackable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/Quackable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/Quackologist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/Quackologist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/RedheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/RedheadDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CombinedPatterns/RubberDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/RubberDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Command/Broker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Command/Broker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Command/BuyStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Command/BuyStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Command/CommandDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Command/CommandDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Command/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Command/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Command/SellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Command/SellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Command/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Command/Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Decorator/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Decorator/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Decorator/DecoratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Decorator/DecoratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Decorator/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Decorator/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Decorator/RedShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Decorator/RedShapeDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Decorator/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Decorator/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Decorator/ShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Decorator/ShapeDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Facade/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Facade/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Facade/FacadeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Facade/FacadeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Facade/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Facade/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Facade/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Facade/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Facade/ShapeMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Facade/ShapeMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Facade/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Facade/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Observer/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/BinaryObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Observer/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/ConcreteSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Observer/HexaObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/HexaObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Observer/ObsrverDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/ObsrverDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Observer/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/OctalObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Prototype/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Prototype/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Prototype/PrototypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Prototype/PrototypeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Prototype/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Prototype/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Prototype/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Prototype/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Prototype/ShapeCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Prototype/ShapeCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Prototype/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Prototype/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ProxyPattern/GumballMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMachineRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ProxyPattern/GumballMachineRemote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProxyPattern/GumballMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ProxyPattern/GumballMonitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ProxyPattern/MyRemote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemoteClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ProxyPattern/MyRemoteClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProxyPattern/MyRemoteImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ProxyPattern/MyRemoteImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProxyPattern/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ProxyPattern/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Strategy/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Strategy/OperationA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/OperationA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Strategy/OperationB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/OperationB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Strategy/OperationC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/OperationC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Strategy/StrategyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/StrategyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/KTU/Factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/KTU/Factory/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,35 +43,35 @@
     <session id="-2011978490">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="165" />
+          <entry key="java" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="165" />
+          <entry key="JAVA" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="16298" />
+          <entry key="java" value="19865" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16298" />
+          <entry key="JAVA" value="19865" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -186,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+            <state relative-caret-position="101">
+              <caret line="93" column="31" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -196,80 +92,72 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/IObserver.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/UI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/ViewPortController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="176">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/Manager.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/EnemyUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="648">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/IFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Adapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/EnemyFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Strategy/Fly.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="288">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Enemy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-318">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -280,48 +168,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Plane.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            <state relative-caret-position="456">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Enemy.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+            <state relative-caret-position="152">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#891#892#0" expanded="true" />
-                <element signature="e#931#932#0" expanded="true" />
-                <element signature="e#950#951#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-                <element signature="e#790#791#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#853#854#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
-                <element signature="e#990#991#0" expanded="true" />
-                <element signature="e#1046#1047#0" expanded="true" />
-                <element signature="e#1077#1078#0" expanded="true" />
-                <element signature="e#1104#1105#0" expanded="true" />
-                <element signature="e#1144#1145#0" expanded="true" />
-                <element signature="e#1176#1177#0" expanded="true" />
-                <element signature="e#1297#1298#0" expanded="true" />
-                <element signature="e#1370#1371#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Jet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/UIDraw.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -343,30 +245,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Facade/ShapeMaker.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Facade/FacadeDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Bridge/DrawApi.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Bridge/RedCircle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Bridge/GreenCircle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Bridge/Shape.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Bridge/Circle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Bridge/BridgeDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Factory/Shape.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Factory/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Factory/Square.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Factory/Circle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Factory/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Factory/FactoryPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/company/AbstractFactory/Shape.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/StrategyDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Square.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Circle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Color.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Circle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Red.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Green.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Blue.java" />
         <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/ColorFactory.java" />
@@ -385,15 +263,39 @@
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Strategy/IMoveAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Strategy/Swim.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Strategy/Fly.java" />
-        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Plane.java" />
-        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/IFactory.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/EnemyFactory.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/IObserver.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/Manager.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/ViewPortController.java" />
-        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/IBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/DrivingBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/FlyingBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/SwimmingBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/Director.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Prototype/Wings.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/ISkin.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/BlueEnemy.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Ezon.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/RedEnemy.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Shields.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Weapon.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ICommand.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/Invoker.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ShootCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/MoveUpCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/MoveDownCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Socket220V.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Socket110V.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Adapter.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/UI.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/EnemyUI.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/UIDraw.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Plane.java" />
+        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java" />
       </list>
     </option>
   </component>
@@ -403,10 +305,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-9" />
-    <option name="width" value="1038" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1040" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -416,7 +318,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -449,7 +350,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="Factory" type="462c0819:PsiDirectoryNode" />
-              <item name="Factory" type="462c0819:PsiDirectoryNode" />
+              <item name="Bridge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DPJava" type="b2602c69:ProjectViewProjectNode" />
@@ -457,18 +358,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="Factory" type="462c0819:PsiDirectoryNode" />
-              <item name="Observer" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540844490689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540891109322" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -590,18 +492,19 @@
       <workItem from="1540574199216" duration="4256000" />
       <workItem from="1540639905994" duration="3660000" />
       <workItem from="1540747408062" duration="3334000" />
-      <workItem from="1540841639484" duration="2781000" />
+      <workItem from="1540841639484" duration="5500000" />
+      <workItem from="1540883462580" duration="1600000" />
+      <workItem from="1540889029577" duration="1833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20134000" />
+    <option name="totallyTimeSpent" value="26286000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="830" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="832" height="832" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26883116" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2849741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -610,14 +513,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17690058" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74189365" weight="0.47153285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.25810635" side_tool="true" weight="0.47153285" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -638,197 +541,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="57" lean-forward="true" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Factory/FactoryPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/OperationA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/OperationB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/OperationC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Strategy/StrategyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Shapes/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Red.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Green.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/Colors/Blue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/ColorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/FactoryProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/AbstractFactory/AbstractFactoryPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/ObsrverDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Observer/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -921,17 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Jet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Submarine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -972,16 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Plane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/IFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1018,67 +709,331 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/ViewPortController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/IBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/DrivingBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/Director.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="216">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/FlyingBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/SwimmingBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Prototype/Wings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Observer/ViewPortController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/ISkin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/BlueEnemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Ezon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ICommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Command/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ShootCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Command/MoveUpCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Command/MoveDownCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/RedEnemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Shields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/Weapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Socket220V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Socket110V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/EnemyUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/UIDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Enemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        <state relative-caret-position="-318">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1104#1105#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1297#1298#0" expanded="true" />
-            <element signature="e#1370#1371#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Plane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Factory/Jet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        <state relative-caret-position="101">
+          <caret line="93" column="31" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

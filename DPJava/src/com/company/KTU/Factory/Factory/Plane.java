@@ -9,4 +9,14 @@ public class Plane extends Enemy {
         super(name, posX, posY);
         this.moveList.add(new Fly());
     }
+
+    @Override
+    public void drawWeapon() {
+        this.ui.oper1();
+    }
+
+    @Override
+    public void drawMovement() {
+        this.ui.oper2();
+    }
 }
