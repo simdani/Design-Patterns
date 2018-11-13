@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb9d19a-cf2b-4042-bf21-8da741f38223" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/RealImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/AbstractLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ChainPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/FileLogger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,37 +20,37 @@
     <session id="-2011978490">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="8" />
-          <entry key="project.open.time.10" value="7" />
+          <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="7" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="414" />
+          <entry key="java" value="419" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="414" />
+          <entry key="JAVA" value="419" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="25149" />
+          <entry key="java" value="26083" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25149" />
+          <entry key="JAVA" value="26083" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -58,74 +59,86 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/AbstractDuckFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="312">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatBar.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="264">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatController.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/AbstractLogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/Image.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/RealImage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state relative-caret-position="-117">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding>
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyImage.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ConsoleLogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="216">
+              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
               <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/FileLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ChainPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="387">
+              <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ErrorLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,11 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/Invoker.java" />
-        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ShootCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/MoveUpCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Command/MoveDownCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Socket220V.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Socket110V.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Adapter.java" />
         <option value="$PROJECT_DIR$/src/com/company/KTU/Factory/Main.java" />
@@ -224,6 +232,11 @@
         <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/RealImage.java" />
         <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyImage.java" />
         <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/AbstractLogger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ErrorLogger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ConsoleLogger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/FileLogger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ChainPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -247,6 +260,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,6 +292,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="ChainOfResponsibility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DPJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DPJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
               <item name="Proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -292,13 +314,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542031598696" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542098984721" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -318,7 +339,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProxyPatternDemo">
+  <component name="RunManager" selected="Application.ChainPatternDemo">
+    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TutorialsPoint.Strategy.Strategy.ChainOfResponsibility.ChainPatternDemo" />
+      <module name="DPJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.TutorialsPoint.Strategy.Strategy.ChainOfResponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CompositePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.TutorialsPoint.Strategy.Strategy.Composite.CompositePatternDemo" />
       <module name="DPJava" />
@@ -338,19 +372,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.TutorialsPoint.Strategy.Strategy.Flyweigth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TutorialsPoint.Strategy.Strategy.Iterator.IteratorPatternDemo" />
-      <module name="DPJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.TutorialsPoint.Strategy.Strategy.Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,19 +406,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IteratorPatternDemo" />
       <item itemvalue="Application.CompositePatternDemo" />
       <item itemvalue="Application.FlyweightPatternDemo" />
       <item itemvalue="Application.StatePatternDemo" />
       <item itemvalue="Application.ProxyPatternDemo" />
+      <item itemvalue="Application.ChainPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainPatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
         <item itemvalue="Application.StatePatternDemo" />
         <item itemvalue="Application.FlyweightPatternDemo" />
         <item itemvalue="Application.CompositePatternDemo" />
-        <item itemvalue="Application.IteratorPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -442,16 +463,17 @@
       <workItem from="1541851754754" duration="33000" />
       <workItem from="1541861316524" duration="7000" />
       <workItem from="1542031250661" duration="356000" />
+      <workItem from="1542097862832" duration="1130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37922000" />
+    <option name="totallyTimeSpent" value="39052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27323163" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2815534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,41 +510,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Adapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Bridge/EnemyUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Builder/IBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ShootCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Command/ICommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -789,6 +776,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/RealImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/KTU/Factory/Decorator/RedEnemy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -810,48 +825,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/HeadFirst/CombinedPatterns/BeatMVC/BeatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/Image.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/RealImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/Proxy/ProxyPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/AbstractLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ErrorLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ConsoleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/FileLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TutorialsPoint/Strategy/Strategy/ChainOfResponsibility/ChainPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
         </state>
       </provider>
     </entry>
