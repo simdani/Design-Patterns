@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d88e516-c027-400f-a3ab-0431fa66f535" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/SourceMaking/IntSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/SourceMaking/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/IteratorPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/NameRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Generalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Realization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Specialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/TemplateMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/TemplatePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/TemplateMethod/SourceMaking/Generalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/TemplateMethod/SourceMaking/TemplateMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/TemplatePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DPJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DPJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DPJava/DPJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DPJava/DPJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KTU/04-Builder-Prorotype-2018/04-Builder-Prorotype-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KTU/04-Builder-Prorotype-2018/04-Builder-Prorotype-2018.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Cricket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Football.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/TemplatePatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/Iterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/Container.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/NameRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/IteratorPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/SourceMaking/IntSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#940#941#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1053#1054#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
+                <element signature="e#1122#1123#0" expanded="true" />
+                <element signature="e#1158#1159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/SourceMaking/IteratorDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Game.java" />
+        <option value="$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Cricket.java" />
+        <option value="$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Footbal.java" />
+        <option value="$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Football.java" />
+        <option value="$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/TemplatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/Exam/TemplateMethod/SourceMaking/Generalization.java" />
+        <option value="$PROJECT_DIR$/Exam/TemplateMethod/SourceMaking/TempateMethodDemo.java" />
+        <option value="$PROJECT_DIR$/Exam/TemplateMethod/SourceMaking/TemplateMethodDemo.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Generalization.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Specialization.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Realization.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/TemplateMethodDemo.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/TemplatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Game.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Cricket.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Football.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/Iterator.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/Container.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/NameRepository.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/IteratorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/SourceMaking/IntSet.java" />
+        <option value="$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/SourceMaking/IteratorDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Design patterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DPJava" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DPJava" type="616d4139:PackageViewModuleNode" />
+              <item name="com.company" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DPJava" type="616d4139:PackageViewModuleNode" />
+              <item name="com.company" type="1f31426a:PackageElementNode" />
+              <item name="Exams.TemplateMethod" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DPJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DPJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DPJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exams" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exams" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TemplateMethod" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exams" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exams" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Iterator" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exams" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Iterator" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SourceMaking" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exams" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Iterator" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TutorialsPoint" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DPJava" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exams" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TemplateMethod" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546604564530" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.IteratorDemo">
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exams.Iterator.SourceMaking.IteratorDemo" />
+      <module name="DPJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Exams.Iterator.SourceMaking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exams.Iterator.TutorialsPoint.IteratorPatternDemo" />
+      <module name="DPJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Exams.Iterator.TutorialsPoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exams.TemplateMethod.Sourcemaking.TemplateMethodDemo" />
+      <module name="DPJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Exams.TemplateMethod.Sourcemaking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplatePatternDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Exams.TemplateMethod.TutorialsPoint.TemplatePatternDemo" />
+      <module name="DPJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Exams.TemplateMethod.TutorialsPoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplatePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemplatePatternDemo" />
+      <module name="TemplateMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IteratorDemo" />
+        <item itemvalue="Application.IteratorPatternDemo" />
+        <item itemvalue="Application.TemplatePatternDemo (1)" />
+        <item itemvalue="Application.TemplateMethodDemo" />
+        <item itemvalue="Application.TemplatePatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d88e516-c027-400f-a3ab-0431fa66f535" name="Default Changelist" comment="" />
+      <created>1546601311777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546601311777</updated>
+      <workItem from="1546601313142" duration="646000" />
+      <workItem from="1546601982990" duration="2585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3231000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27600554" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.32986626" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32886904" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exam/TemplateMethod/SourceMaking/TempateMethodDemo.java" />
+    <entry file="file://$PROJECT_DIR$/Exam/TemplateMethod/TemplateMethod.iml" />
+    <entry file="file://$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Cricket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/Football.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam/TemplateMethod/TutorialsPoint/TemplatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam/TemplateMethod/SourceMaking/Generalization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#59#60#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam/TemplateMethod/SourceMaking/TemplateMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Generalization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Specialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/Realization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/Sourcemaking/TemplateMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Cricket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Football.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/TemplateMethod/TutorialsPoint/TemplatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/NameRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/TutorialsPoint/IteratorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/SourceMaking/IntSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DPJava/src/com/company/Exams/Iterator/SourceMaking/IteratorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
