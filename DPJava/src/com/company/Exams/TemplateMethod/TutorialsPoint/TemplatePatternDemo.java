@@ -8,5 +8,7 @@ public class TemplatePatternDemo {
         System.out.println();
         game = new Football();
         game.play();
+        game = new Basketball();
+        game.play();
     }
 }
